@@ -1,6 +1,6 @@
 Java Benchmark
 
-Vimos muitos snippets de código Java que supõem melhorar o desempenho. Em muitos casos, não houve melhora real com o código adicional. Em vez disso, o código fica maior sem nenhum motivo real.
+Já Vimos muitos snippets de código Java que supõem melhorar o desempenho. Em muitos casos, não houve melhora real com o código adicional. Em vez disso, o código fica maior sem nenhum motivo real.
 
 Com este projeto, tentaremos eliminar ou provar alguns mitos de desempenho comuns.
 
@@ -16,7 +16,7 @@ watch O que significam os valores?
 
 Não tome resultados como está escrito em uma pedra. Pensar! Às vezes, os valores de entrada (volume e conteúdo) ditam os resultados de desempenho.
 
-Contribua!
+Se você tambem é apaixonado por performance com eu, Contribua!
 
 Sinta-se à vontade para adicionar seus próprios benchmarks. Deixe-nos saber quando você  medir a performance de algo.
 
